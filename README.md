@@ -1,6 +1,6 @@
 ![](./github-header-image.png)
 
-Hey there! 👋 I'm Joshua, a developer who's returning to software development after a hiatus. Before lockdown, I was studying software engineering in university, along with information systems on the side. But I decided to take a detour since remote classes were not giving...
+Hey there! 👋 I'm Joshua, a budding developer who's returning to software development after a hiatus. Before lockdown, I was studying software engineering in university, along with information systems on the side. But I decided to take a detour since remote classes were not giving...
 
 Currently, I'm working as a cybersecurity analyst, with a focus on infrastructure auditing, fixing vulnerabilities, and automating processes. 💪✨ I'm hopeful that I will return to university in the near future.
 
