@@ -1,4 +1,6 @@
-![](./github-header-image.png)
+<p align="center">
+  <img width="834" height="200" src="./github-header-image.png">
+</p>
 
 Hey there! 👋 I'm Joshua, a budding developer who's returning to software development after a hiatus. Before lockdown, I was studying software engineering in university, along with information systems on the side. But I decided to take a detour since remote classes were not giving...
 
